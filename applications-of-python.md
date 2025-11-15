@@ -85,12 +85,16 @@ Python একটি বহুমুখী প্রোগ্রামিং ভ�
 - মাল্টিমিডিয়া অ্যাপ্লিকেশন
 
 **বাস্তব বিশ্বের কোম্পানিগুলো যারা Python ব্যবহার করে:**
-কোম্পানি	Python-এর ব্যবহার
-Google	Search, YouTube, Google Cloud
-NASA	Scientific computing & research
-Netflix	Recommendation algorithms
-Spotify	Music recommendation & analytics
-Instagram	Web backend (Django)
-Uber	Data analysis & prediction
-Dropbox	Desktop client & backend
-Reddit	Website functionality
+
+| কোম্পানি | Python-এর ব্যবহার | 
+|------|-----|
+| Google | Search, YouTube, Google Cloud  |
+| NASA| Scientific computing & research  | 
+| Netflix | Recommendation algorithms  |
+| Spotify | Music recommendation & analytics  |
+| Instagram | Web backend (Django)  |
+| Uber | Data analysis & prediction  |
+| Dropbox | Desktop client & backend  |
+| Reddit | Website functionality  |
+
+	
