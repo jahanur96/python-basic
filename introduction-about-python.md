@@ -6,10 +6,15 @@
 
 ![Fetures of Python](./images/feture%20of%20python.jpg "feture of python")
 ---
-- ✅ **সহজ শেখার** ভাষা
+- ✅ **Easy to learn**
+- ✅ **Heigh Level Language**
+- ✅ **Interpreted Language**
+- ✅ **Dynamically Typed Language**
+- ✅ **Object Oriented Language**
+- ✅ **Large Standard larbrary Support**
 - ✅ **ফ্রি এবং ওপেন সোর্স**
-- ✅ **ক্রস-প্ল্যাটফর্ম** (Windows, Mac, Linux সবজায়গায় চলে)
-- ✅ **অবজেক্ট ওরিয়েন্টেড**
+- ✅ **Platform Independent/ ক্রস-প্ল্যাটফর্ম** (Windows, Mac, Linux সবজায়গায় চলে)
+- ✅ **Community Support**
 - ✅ **বিশাল লাইব্রেরি কলেকশন**
 
 ---
